@@ -10,7 +10,7 @@ resources:
   pipelines:
   - pipeline: cipipeline
     # TODO: Update with the name of your CI pipeline
-    source: 'CI Pipeline'
+    source: 'nobuko-yamada.LogicAppStandard'
     trigger:
       branches:
       - main
