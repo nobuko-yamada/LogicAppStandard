@@ -8,7 +8,7 @@ variables:
 
 resources:
   pipelines:
-  - pipeline: cipipeline
+  - pipeline: nobuko-yamada.LogicAppStandard
     # TODO: Update with the name of your CI pipeline
     source: 'CI Pipeline'
     trigger:
